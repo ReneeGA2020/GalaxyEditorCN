@@ -1,0 +1,12 @@
+EDSTR_CATEGORY_DataFamily=%FIXME% /// Data Family
+EDSTR_CATEGORY_DataGroup=%FIXME% /// Data Group
+EDSTR_CATEGORY_DataGroup_Arifact=%FIXME% /// Arifact
+EDSTR_CATEGORY_DataGroup_Template=%FIXME% /// zTemplate
+EDSTR_CATEGORY_GROUP_Arifact=%FIXME% /// Arifact
+EDSTR_CATEGORY_GROUP_Tileset=%FIXME% /// Tileset
+EDSTR_CATEGORY_ObjectType_Artifact=%FIXME% /// Item: Artifact
+EDSTR_CATEGORY_ObjectType_Charged=%FIXME% /// Item: Charged
+EDSTR_CATEGORY_ObjectType_Miscellaneous=%FIXME% /// Item: Miscellaneous
+EDSTR_CATEGORY_ObjectType_Permanent=%FIXME% /// Item: Permanent
+EDSTR_CATEGORY_ObjectType_PowerUp=%FIXME% /// Item: Power Up
+EDSTR_CATEGORY_ObjectType_Purchasable=%FIXME% /// Item: Purchasable
