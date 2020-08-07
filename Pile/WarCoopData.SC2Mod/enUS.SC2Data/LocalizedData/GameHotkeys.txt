@@ -1,0 +1,9 @@
+Hotkey/AnimalWarTrainingCharge=A
+Hotkey/DiabolusInferno=N
+Hotkey/GoblinBombThrower=M
+Hotkey/GoblinCrusher=G
+Hotkey/GoblinSapper=S
+Hotkey/GoblinSwarmer=C
+Hotkey/HearthstoneCoop=B
+Hotkey/PreparedShotResearch=L
+Hotkey/AdvancedShieldWall=D

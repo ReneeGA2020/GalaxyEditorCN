@@ -1,0 +1,116 @@
+e_errorAlreadyRunning=Startup: Already running.
+e_errorNoSSE=StarCraft II requires a processor with SSE/SSE2 support. This computer does not meet minimum system requirements.
+e_errorNoDirectX=Startup: Couldn't initialize DirectX.
+e_errorNoOpenGL=Startup: Couldn't initialize OpenGL.
+e_errorNoArchive=Files are missing from your StarCraft II installation.
+e_errorNoArchiveRepairable=Files are missing from your StarCraft II installation.
+e_errorNoCDKey=Startup: Couldn't find cd-key. Reinstall.
+e_errorPatchRequired=StarCraft II requires a patch. Would you like to download and install the patch now?
+e_errorNotSimplifiedChinese=Startup: Can only be run with chinese operating system. Install different version.
+
+e_errorIdFatal=An unexpected fatal error occurred.
+e_errorIdPermission=Core: access permission error
+
+e_errorIdFormat=Core: invalid or unexpected object format
+e_errorIdVersion=Core: invalid object version tag
+e_errorIdVersionWarcraft3Map=Core: this Warcraft III map is saved with a version the converter does not support.
+e_errorIdTagcode=Core: invalid or unexpected object tag code
+e_errorIdKeycode=Core: invalid or unexpected object key
+
+e_errorIdNotFound=Core: a required object could not be found
+e_errorIdAccessDenied=Core: access denied to required object or service
+e_errorIdDuplicated=Core: invalid duplication of unique object
+e_errorIdDamaged=Your StarCraft II installation is damaged.
+e_errorIdDamagedRepairable=Your StarCraft II installation is damaged.
+e_errorIdStreaming=An error occurred downloading game data from Blizzard's servers. Please check your internet connection and try again later.
+e_errorIdLoadIO=An error occurred loading, file is corrupt.
+e_errorIdUnrecoverableError=Unrecoverable error.
+e_errorIdUnknownWarning=Unknown warning.
+
+e_errorIdMemory=Core: out of memory
+e_errorIdMemoryLarge=Core: out of memory
+e_errorIdMemoryKnown=Core: allocated an existing memory block
+e_errorIdMemoryUnknown=Core: tried to expand, realloc or free an unknown memory block
+e_errorIdMemoryUnexpectedAlignment=Core: given alignment did not match the expected value for the memory block
+e_errorIdMemoryTooLarge=Core: unexpectedly large allocation detected
+e_errorIdMemManager=Core: memory management error
+
+e_errorIdExpansion=Core: an object could not be expanded
+e_errorIdCreation=Core: generic object creation error
+e_errorIdWrongType=Core: invalid object type identification
+e_errorIdStatus=Core: invalid status for an operation
+e_errorIdParam=Core: invalid or unexpected parameter
+e_errorIdInUse=Core: cannot use an object already in use
+e_errorIdBusy=Core: cannot use a \"busy\" object
+e_errorIdTimeout=Core: operation timed out
+
+e_errorIdTooMany=Core: too many objects for the operation
+e_errorIdNotEnough=Core: not enough objects for the operation
+
+e_errorIdBuffer=Core: invalid or insufficient buffer size
+e_errorIdSize=Core: invalid or unexpected object size
+e_errorIdSizeWarcraft3Map=Core: the size of this Warcraft III map is too big to be converted. The editor currently only supports Warcraft III maps less than or equal to size 128x128.
+e_errorIdFileType=Core: invalid file type
+e_errorIdNesting=Core: cannot nest a non-nestable operation
+
+e_errorIdUnimplemented=Core: feature not yet implemented
+
+e_errorIdRemote=Running StarCraft II through a Remote Desktop connection is not supported. Exiting program.
+
+e_errorIdRepairPrompt=Would you like to run Blizzard Desktop Application to repair the problem?
+
+e_errorIdBuildMismatch=At least one other user is using a different build.
+e_errorIdThreading=Thread access error
+e_errorEncodeFailure=Replay stream error
+e_errorIdUnknownError=Unknown error. Please re-install the game.
+
+// CFilePath
+e_errorIdInvalidDirChar=Core: invalid file path, bad directory character
+e_errorIdInvalidFileChar=Core: invalid file path, bad file character
+e_errorIdInvalidFileName=Core: invalid file path, bad file name
+
+e_errorIdEmpty=Core: invalid file path, empty path
+
+// CArchive/CFile
+e_authUnableToAuthenticate=Core: unable to authenticate archive
+e_authNoSignature=Core: no archive signature
+e_authBadSignature=Core: bad archive signature
+e_authUnknownSignature=Core: unknown archive signature
+
+e_fileBadPath=Core: bad file path
+e_fileCorrupt=Files in your StarCraft II installation are damaged.
+e_fileCorruptRepairable=Files in your StarCraft II installation are damaged.
+e_fileInvalid=Core: file invalid
+e_fileAccessDenied=Core: file access denied
+e_fileOpenFailed=Core: file open failed
+e_fileNotFound=Core: file not found
+
+e_fileEndOfFile=Core: end of file
+e_fileIOError=Core: file IO error
+e_fileDuplicate=Core: file duplicate
+e_fileInvalidDrive=Core: invalid drive
+e_fileInvalidHandle=Core: invalid file handle
+e_fileUnknownError=Core: unknown file error
+
+e_archiveNotArchive=Core: path is not an archive
+e_archiveBlockTableFull=Core: archive block table full
+e_archiveHashTableFull=Core: archive hash table full
+e_archiveListFileMissing=Core: archive list file missing
+
+e_asyncIncomplete=Core: file async incomplete
+e_transferFailed=Core: file transfer failed
+
+// Gfx2
+e_gfxErrorFailedToInitialize=StarCraft II has encountered an error while initializing your videocard. Please try starting StarCraft II again, or restarting your machine. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorOutofVideoMemory=Your system is running low on available video memory. Please close other applications, or restart your machine. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorOutofMemory=StarCraft II has encountered an error. Your graphics system may be running low on available memory. Please restart your machine. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorWeRequireAdditionalPShaders=StarCraft II requires a videocard with pixel shader 3.0 support. This PC does not meet minimum system requirements. For more information on required hardware, consult our support website at http://blizzard.com/support.
+e_gfxErrorWeRequireAdditionalVShaders=StarCraft II requires a videocard with vertex shader 3.0 support. This PC does not meet minimum system requirements. For more information on required hardware, consult our support website at http://blizzard.com/support.
+e_gfxGraphicsAPIError=StarCraft II has encountered an unexpected DirectX/OpenGL error. This may indicate an issue with an out-of-date videocard driver. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorNoHardwareAcceleration=No 3D videocard found. StarCraft II requires a videocard with 3D acceleration support. This PC does not meet minimum system requirements. For more information on required hardware, consult our support website at http://blizzard.com/support.
+e_gfxErrorDeviceUnavailable=Graphics device is not available at this time. Please try starting StarCraft II again, or restarting your machine. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorFailedToInitDueToExclusiveAccess=The videocard is not accessible because no display drivers are installed, another 3D application has exclusive access or the machine was locked. Please close any 3D applications or games and try starting StarCraft II again. Rebooting your system may also unlock the videocard. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorFailedToInitializeD3D=Failed to initialize DirectX. You may need to reinstall DirectX. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorBadDriver=Failure due to videocard driver issue. This driver has known issues with StarCraft II. You must update your videocard driver to play StarCraft II. If the problem persists, for more information consult our support website at http://blizzard.com/support.
+e_gfxErrorD3D11NotFound=DirectX 11 is not available on this machine. Direct3D 11 is available under Windows 7 or better, or Windows Vista with the DirectX 11 Microsoft update. DirectX 11 is not supported under Windows XP.
+e_gfxErrorDeviceReferencedExternally=Error BLZGFX0001: Graphics device unavailable due to external interference. Please close any other programs which could affect your video performance or rendering (such as recording software) and then restart StarCraft II.
